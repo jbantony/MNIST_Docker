@@ -1,0 +1,3 @@
+#ignore the pkl files generated from the csv files
+
+*.pkl

@@ -42,7 +42,7 @@ Note: avoid sudo if necessary
 
 1. Clone this repository having the data and jupyter notebook and move to the main folder
 ```
-cd mnist-handwritten-digits
+cd MNIST_Docker
 ```
 2. Run the latest image from jupyter docker slacks and then run the image mounting the ´pwd´ containing all our files as reference. The port of Jupyter Notebook is mapped to localhost port 80 and the container is named as "jupyter"
 
